@@ -1,0 +1,11 @@
+streamlit
+matplotlib.pyplot
+seaborn
+pandas
+numpy
+pickle
+re
+math
+zipfile
+lightgbm
+streamlit_echarts
