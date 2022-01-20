@@ -1,0 +1,1 @@
+web : sh setup.sh && strealit run dashboard.py
